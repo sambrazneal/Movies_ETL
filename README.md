@@ -20,3 +20,5 @@ In this challenge, I created an automated pipeline that takes in new data, perfo
 
 Deliverable 4 
 ![ETL_Del4.1](Del_SS/ETL_Del4.1.png)
+![ratings_query](Resources/ratings_query.png)
+![moviess_query](Resources/movies_query.png)
